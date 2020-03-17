@@ -1,1 +1,1 @@
-"# SimpleMaven" 
+# SimpleMaven
